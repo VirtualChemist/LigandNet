@@ -1,0 +1,6 @@
+SMILES,ChEMBL,target,metric
+COc1cc(Nc2c(cnc3cc(OCCCN4CCN(C)CC4)c(OC)cc23)C#N)c(Cl)cc1Cl,bosutinib,8.7,pKd
+C[C@@H](O)COc1cn2ncnc(Oc3ccc4[nH]c(C)cc4c3F)c2c1C,CHEMBL377300,7.59,pKd
+CCN1CCN(Cc2ccc(NC(=O)Nc3ccc(Oc4cc(NC)ncn4)cc3)cc2C(F)(F)F)CC1,CHEMBL574738,7.8,pKd
+Cc1[nH]c(\C=C\2/C(=O)Nc3ccc(F)cc23)c(C)c1C(=O)NC[C@H](O)CN4CCOCC4,CHEMBL1721885,8.09,pKd
+COc1cc2c(Oc3ccc4[nH]c(C)cc4c3F)ncnc2cc1OCCCN5CCCC5,CHEMBL491473,8.27,pKd

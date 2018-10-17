@@ -1,0 +1,23 @@
+ligand	C[C@H](CCC(=O)NCCS(=O)(=O)[O-])[C@H]1CC[C@@H]2[C@@]1([C@H](C[C@H]3[C@H]2[C@@H](C[C@H]4[C@@]3(CC[C@H](C4)OCCN(C)c5ccc(cc5)[C@H]6C[C@]7([C@@H](CC[C@]7(C#C)O)[C@H]8C6=C9CCC(=O)C=C9CC8)C)C)O)O)C	CHEMBl353437	P10000521
+COc1ccc(cc1C[NH+]2C[C@@H]3C[C@H](C2)c4cccc(=O)n4C3)C(c5c([nH]c(=S)n(c5=O)CCC6=CCCCC6)[O-])c7c([nH]c(=S)n(c7=O)CCC8=CCCCC8)[O-]	C85888701	P134469866
+C/C=C(\C)/C(=O)N[C@@H](c1ccccc1)[C@H](C(=O)O[C@H]2C[C@]3([C@H]([C@H]4[C@@]([C@H](C[C@@H]5[C@]4(CO5)OC(=O)C)O)(C(=O)[C@@H](C(=C2C)C3(C)C)OC(=O)C)C)OC(=O)c6ccccc6)O)O	C94303206	P147803852
+C/C=C(\C)/C(=O)N[C@@H](c1ccccc1)[C@H](C(=O)O[C@H]2C[C@]3([C@H]([C@H]4[C@@]([C@@H](C[C@@H]5[C@]4(CO5)OC(=O)C)O)(C(=O)[C@@H](C(=C2C)C3(C)C)OC(=O)C)C)OC(=O)c6ccccc6)O)O	C94303207	P147803853
+C/C=C(\C)/C(=O)N[C@@H](c1ccccc1)[C@H](C(=O)O[C@H]2C[C@]3([C@H]([C@H]4[C@@]([C@H](C[C@@H]5[C@]4(CO5)OC(=O)C)O)(C(=O)[C@@H](C(=C2C)C3(C)C)OC(=O)C)C)OC(=O)c6ccccc6)O)[O-]	C94303206	P147803951
+C/C=C(\C)/C(=O)N[C@@H](c1ccccc1)[C@H](C(=O)O[C@H]2C[C@]3([C@H]([C@H]4[C@@]([C@@H](C[C@@H]5[C@]4(CO5)OC(=O)C)O)(C(=O)[C@@H](C(=C2C)C3(C)C)OC(=O)C)C)OC(=O)c6ccccc6)O)[O-]	C94303207	P147803952
+C/C=C(\C)/C(=O)O[C@H]1[C@H]2[C@@]([C@H](C[C@@H]3[C@]2(CO3)OC(=O)C)O)(C(=O)[C@@H](C4=C([C@H](C[C@@]1(C4(C)C)O)OC(=O)[C@@H]([C@H](c5ccccc5)NC(=O)c6ccccc6)O)C)OC(=O)C)C	C94307018	P147807838
+C/C=C(\C)/C(=O)O[C@H]1[C@H]2[C@@]([C@H](C[C@@H]3[C@]2(CO3)OC(=O)C)O)(C(=O)[C@@H](C4=C([C@H](C[C@@]1(C4(C)C)O)OC(=O)[C@@H]([C@H](c5ccccc5)NC(=O)c6ccccc6)[O-])C)OC(=O)C)C	C94307018	P147808058
+C/C=C(\C)/C(=O)N[C@H](c1ccccc1)[C@H](C(=O)O[C@H]2C[C@]3([C@H]([C@@H]4[C@]([C@H](C[C@@H]5[C@]4(CO5)OC(=O)C)O)(C(=O)[C@@H](C(=C2C)C3(C)C)OC(=O)C)C)OCc6ccccc6)O)O	C95100849	P149110311
+C/C=C(\C)/C(=O)N[C@@H](c1ccccc1)[C@H](C(=O)O[C@H]2C[C@]3([C@H]([C@@H]4[C@]([C@H](C[C@@H]5[C@]4(CO5)OC(=O)C)O)(C(=O)[C@@H](C(=C2C)C3(C)C)OC(=O)C)C)OCc6ccccc6)O)O	C95100850	P149110312
+C/C=C(\C)/C(=O)N[C@H](c1ccccc1)[C@@H](C(=O)O[C@H]2C[C@]3([C@H]([C@@H]4[C@]([C@H](C[C@@H]5[C@]4(CO5)OC(=O)C)O)(C(=O)[C@@H](C(=C2C)C3(C)C)OC(=O)C)C)OCc6ccccc6)O)O	C95100851	P149110313
+C/C=C(\C)/C(=O)N[C@@H](c1ccccc1)[C@@H](C(=O)O[C@H]2C[C@]3([C@H]([C@@H]4[C@]([C@H](C[C@@H]5[C@]4(CO5)OC(=O)C)O)(C(=O)[C@@H](C(=C2C)C3(C)C)OC(=O)C)C)OCc6ccccc6)O)O	C95100852	P149110314
+Cc1ccc(cc1)S(=O)(=O)C2(C(NCCCNCC[NH2+]CCCN2)(S(=O)(=O)c3ccc(cc3)C)S(=O)(=O)c4ccc(cc4)C)S(=O)(=O)c5ccc(cc5)C	C95101083	P149110926
+C/C=C(\C)/C(=O)N[C@@H](c1ccccc1)[C@H](C(=O)O[C@H]2C[C@]3([C@H]([C@@H]4[C@@]([C@H](C[C@@H]5[C@]4(CO5)OC(=O)C)O)(C(=O)[C@@H](C(=C2C)C3(C)C)OC(=O)C)C)OC(=O)c6ccccc6)O)O	C95545437	P150196195
+C/C=C(\C)/C(=O)N[C@@H](c1ccccc1)[C@H](C(=O)O[C@H]2C[C@]3([C@H]([C@@H]4[C@@]([C@H](C[C@@H]5[C@]4(CO5)OC(=O)C)O)(C(=O)[C@@H](C(=C2C)C3(C)C)OC(=O)C)C)OC(=O)c6ccccc6)O)[O-]	C95545437	P150196223
+CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](c5ccccc5)NC(=O)c6ccccc6)O)O)OC(=O)c7ccccc7)(CO4)OC(=O)C)O)C)OC(=O)C	C96006020	P151195819
+CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](c5ccccc5)NC(=O)c6ccccc6)[O-])O)OC(=O)c7ccccc7)(CO4)OC(=O)C)O)C)OC(=O)C	C96006020	P151195843
+c1cc2c(cc1C[NH+]3CCN(CC3)C(=O)c4cc(cc(c4)C(=O)N5CCN(CC5)Cc6ccc7c(c6)OCO7)C(=O)N8CCN(CC8)Cc9ccc1c(c9)OCO1)OCO2	C97949312	P155518812
+c1ccc(cc1)P(=O)(c2ccccc2)c3ccccc3C[NH+]4CCOCCOCCN(CCOCCOCC4)Cc5ccccc5P(=O)(c6ccccc6)c7ccccc7	C97999645	P155655938
+CC[C@@H]1[C@@]2([C@@H]([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H](C(=O)[C@H](C(=O)O1)C)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)[NH+](C)C)O)(C)OC)C)C)N(C(=O)O2)C4CN(C4)[C@H](C)c5ccnc6c5cccn6)C	C98052587	P155794550
+CC[C@@H]1[C@@]2([C@H]([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H](C(=O)[C@H](C(=O)O1)C)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)[NH+](C)C)O)(C)OC)C)C)N(C(=O)O2)C4CN(C4)[C@H](C)c5ccnc6c5cccn6)C	C98052588	P155794551
+C[C@H]1CC[C@H]2C[C@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@H]([C@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@H]4CC[C@H]([C@H](C4)OC)OCCO)C)/C)O)OC)C)C)/C)OC	C98230072	P156228364
+C[C@H]1CC[C@H]2C[C@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@H]([C@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@@H]([C@H](C4)OC)OCCO)C)/C)O)OC)C)C)/C)OC	C98230075	P156228367

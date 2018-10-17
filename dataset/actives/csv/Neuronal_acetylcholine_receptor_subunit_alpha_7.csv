@@ -1,0 +1,4 @@
+SMILES,ChEMBL,target,metric
+CC(=O)OCC[N+](C)(C)C,acetylcholine,5.1,pKi
+[H][C@]12C[C@]([H])(CNC1)C1=C2C=C2N=CC=NC2=C1,varenicline,6.9,pKi
+CN1[C@H]2CC[C@@H]1C[C@@H](C2)OC(=O)C1=CNC2=C1C=CC=C2,tropisetron,8.16,pKi

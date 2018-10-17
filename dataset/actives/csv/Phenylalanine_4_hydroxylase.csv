@@ -1,0 +1,3 @@
+SMILES,ChEMBL,target,metric
+C[C@H](O)[C@H](O)[C@H]1CNC2=C(N1)C(=O)NC(N)=N2,sapropterin,5.4000001,pKi
+CC(O)C(O)C1CNc2c(O)nc(N)nc2N1,CHEMBL187878,6.0,pIC50

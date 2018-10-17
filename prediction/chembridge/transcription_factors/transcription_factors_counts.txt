@@ -1,0 +1,5 @@
+classifier_transcription_factor_p65	7850
+classifier_signal_transducer_and_activator_of_transcription_6	0
+classifier_aryl_hydrocarbon_receptor	2
+classifier_hypoxia_inducible_factor_1_alpha	0
+classifier_transcription_factor_ap_1	5854

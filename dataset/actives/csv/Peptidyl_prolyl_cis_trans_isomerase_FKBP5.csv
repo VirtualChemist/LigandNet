@@ -1,0 +1,16 @@
+SMILES,ChEMBL,target,metric
+[H][C@]12O[C@](O)([C@H](C)C[C@@H]1OC)C(=O)C(=O)N1CCCC[C@@]1([H])C(=O)O[C@@H]([C@@H](C)[C@@H](O)CC(=O)[C@H](CC=C)\C=C(C)\C[C@H](C)C[C@@H]2OC)C(\C)=C\[C@@H]1CC[C@@H](O)[C@@H](C1)OC,tacrolimus,7.1,pKi
+[H][C@@](C)(C[C@]1([H])CC[C@@]([H])(O)[C@@]([H])(C1)OC)[C@]1([H])CC(=O)[C@]([H])(C)\C=C(C)\[C@@]([H])(O)[C@@]([H])(OC)C(=O)[C@]([H])(C)C[C@]([H])(C)\C=C\C=C\C=C(C)\[C@]([H])(C[C@]2([H])CC[C@@]([H])(C)[C@@](O)(O2)C(=O)C(=O)N2CCCC[C@@]2([H])C(=O)O1)OC,sirolimus,8.52,pKi
+COc1ccc(OCCN2CCC3CCCC(N3S(=O)(=O)c4cc(Cl)c(O)c(Cl)c4)C2=O)cc1OC,CHEMBL2348599,6.0,pKi
+COc1cc(cc(OC)c1OC)[C@H](C2CCCCC2)C(=O)N3CCCC[C@H]3C(=O)NC4(CCCC4)C(=O)NCC(=O)N,CHEMBL3794209,6.1,pKi
+COc1ccc(CC[C@@H](OC(=O)[C@@H]2CCCCN2C(=O)[C@H]([C@@H](C)O)C3CCCCC3)c4cccc(OCCN5CCOCC5)c4)cc1OC,CHEMBL3623623,6.16,pKi
+COc1ccc(CC[C@@H](OC(=O)[C@@H]2CCCCN2C(=O)[C@@H](C3CCCCC3)c4ccccc4)c5cccc(OCC(=O)O)c5)cc1OC,CHEMBL3623615,6.22,pKi
+COc1ccc(CC[C@@H](OC(=O)[C@@H]2CCCCN2S(=O)(=O)c3cc(Cl)c(O)c(Cl)c3)c4cccc(OCCN5CCOCC5)c4)cc1OC,CHEMBL2058794,6.34,pIC50
+COc1ccc(OCCN2CCC3CCCC(N3S(=O)(=O)c4ccc5NC(=O)Sc5c4)C2=O)cc1OC,CHEMBL2348594,6.44,pKd
+COc1ccc(CC[C@@H](OC(=O)C2CCCCN2S(=O)(=O)c3cc(Cl)c(O)c(Cl)c3)c4cccc(OCCN5CCOCC5)c4)cc1OC,CHEMBL2348603,6.7,pKi
+COc1cccc(c1)[C@H](C2CCCCC2)C(=O)N3CCCC[C@H]3C(=O)O[C@H](CCc4ccc(OC)c(OC)c4)c5cccc(OCC(=O)O)c5,CHEMBL3623614,6.8,pKi
+COc1cc(cc(OC)c1OC)[C@H](C2CCCCC2)C(=O)N3CCCC[C@H]3C(=O)NC4(CCCC4)C(=O)N,CHEMBL3793603,6.85,pKi
+COc1cc(OC)cc(c1)[C@H](C2CCCCC2)C(=O)N3CCCC[C@H]3C(=O)O[C@H](CCc4ccc(OC)c(OC)c4)c5cccc(OCC(=O)O)c5,CHEMBL3623613,6.96,pKi
+COc1ccc(CC[C@@H](NC(=O)[C@@H]2CCCCN2C(=O)[C@@H](C3CCCCC3)c4cc(OC)c(OC)c(OC)c4)c5cccc(OCC(=O)O)c5)cc1OC,CHEMBL3792975,7.37,pKi
+COc1ccc(CC[C@@H](OC(=O)[C@@H]2CCCCN2C(=O)[C@@H](C3CCCCC3)c4cc(OC)c(OC)c(OC)c4)c5cccc(OCCN6CCOCC6)c5)cc1OC,CHEMBL3623630,8.22,pKi
+COc1ccc(CC[C@@H](OC(=O)[C@@H]2CCCCN2C(=O)[C@@H](C3CCCCC3)c4cc(OC)c(OC)c(OC)c4)c5cccc(OCC(=O)O)c5)cc1OC,CHEMBL3623612,8.4,pKi

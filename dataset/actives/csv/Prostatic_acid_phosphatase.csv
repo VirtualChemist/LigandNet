@@ -1,0 +1,7 @@
+SMILES,ChEMBL,target,metric
+Cl.OP(=O)(O)[C@H](NCc1ccccc1)c2ccccc2,CHEMBL453954,6.7,pIC50
+Cl.C[C@@H](N[C@H](c1ccccc1)P(=O)(O)O)c2ccccc2,CHEMBL501717,7.59,pIC50
+Cl.COc1ccc(cc1)[C@@H](N[C@H](C)c2ccccc2)P(=O)(O)O,CHEMBL507996,7.74,pIC50
+OP(=O)(O)C(NCc1ccccc1)c2cccc3ccccc23,CHEMBL68858,8.07,pIC50
+Cl.OP(=O)(O)[C@@H](NCc1ccccc1)c2ccccc2,CHEMBL454997,8.3,pIC50
+OP(=O)(O)C(NCc1ccccc1)c2ccccc2,CHEMBL498632,8.4,pIC50

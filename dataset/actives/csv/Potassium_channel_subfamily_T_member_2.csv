@@ -1,0 +1,3 @@
+SMILES,ChEMBL,target,metric
+OC(=O)c1ccccc1Nc2cccc(c2)C(F)(F)F,flufenamic acid,8.85000038,pEC50
+OC(=O)c1cccnc1Nc2cccc(c2)C(F)(F)F,niflumic acid,8.68000031,pEC50

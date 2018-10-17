@@ -1,0 +1,3 @@
+SMILES,ChEMBL,target,metric
+CCCC1=CC(=O)NC(=S)N1,propylthiouracil,5.06,pIC50
+CN1C=CNC1=S,thiamazole,5.57,pIC50

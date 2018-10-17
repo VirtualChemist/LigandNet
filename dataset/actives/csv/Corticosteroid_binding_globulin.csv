@@ -1,0 +1,19 @@
+SMILES,ChEMBL,target,metric
+[H][C@@]12CC[C@H](C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,progesterone,7.38,pKi
+[H][C@@]12CC[C@](OC(=O)CCCCC)(C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,hydroxyprogesterone caproate,7.74,pKi
+[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,hydrocortisone acetate,7.55,pKi
+[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,cortisone acetate,6.89,pKi
+[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,prednisolone,7.51,pKi
+[H][C@@]12CC[C@H](C(=O)CO)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,desoxycortone,7.65,pKi
+[H][C@@]12CC[C@H](C(=O)CO)[C@]1(C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C)C=O,aldosterone,6.28,pKi
+[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C,testosterone,6.72,pKi
+[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCC(=O)C=C3CC[C@@]21[H],nandrolone,6.14,pKi
+CC(=O)[C@@]1(O)[C@H](O)C[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C,CHEMBL2311120,6.25,pKi
+C[C@]12CCC(=O)C=C1CC[C@H]3[C@@H]4CC[C@H](C(=O)CO)[C@]4(C[C@H](O)[C@H]23)C=O,CHEMBL273453,6.28,pKi
+CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3C(=O)C[C@]12C,CHEMBL284253,6.78,pKi
+CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@]12C,CHEMBL284109,6.82,pKi
+C[C@H]1CC2C3CCC(C(=O)C)C3(C)CCC2C4(C)CCC(=O)C=C14,CHEMBL433198,7.12,pKi
+C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@@H]2C(=O)CO,CHEMBL110739,7.2,pKi
+CC1C[C@]2(C)[C@@H]3[C@@H](CCC2=CC1=O)[C@@H]4CC[C@](O)(C(=O)CO)[C@@]4(C)CC3=O,CHEMBL432825,7.69,pKi
+C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2CC[C@@]4(C)[C@H]3CC[C@]4(O)C(=O)CO,CHEMBL253144,7.88,pKi
+C[C@]12CCC(=O)C=C1CC[C@H]3[C@@H]4CC[C@](O)(C(=O)CO)[C@@]4(C)C[C@H](O)[C@H]23,CHEMBL389621,7.88,pKi

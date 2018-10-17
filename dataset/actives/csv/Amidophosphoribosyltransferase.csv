@@ -1,0 +1,2 @@
+SMILES,ChEMBL,target,metric
+CCCCC\C=C/C[C@@H](O)\C=C\C=C\C=C/[C@@H](O)CCCC(=O)O,CHEMBL65061,8.54,pKi

@@ -1,0 +1,7 @@
+SMILES,ChEMBL,target,metric
+[H][C@@]12CC(=O)[C@@H](CC(C)C)CN1CCC1=C2C=C(OC)C(OC)=C1,tetrabenazine,7.0,pKi
+[H][C@]12C[C@@H](OC(=O)C3=CC(OC)=C(OC)C(OC)=C3)[C@H](OC)[C@@H](C(=O)OC)[C@@]1([H])C[C@@]1([H])N(CCC3=C1NC1=C3C=CC(OC)=C1)C2,reserpine,7.9000001,pKi
+[H][C@]12C[C@@H](OC(=O)[C@@H](N)C(C)C)[C@H](CC(C)C)CN1CCC1=C2C=C(OC)C(OC)=C1,valbenazine,8.52287865,pKi
+CN1[C@H](CCc2ccccc2)CCC[C@@H]1CCc3ccccc3,CHEMBL333465,6.01,pKi
+CN1[C@H](CCc2cccc3ccccc23)CCC[C@@H]1CCc4cccc5ccccc45,CHEMBL190691,6.2,pKi
+COc1cc2[C@H]3C[C@@H](O)[C@H](CC(C)C)CN3CCc2cc1OCCCF,CHEMBL579217,10.0,pKi

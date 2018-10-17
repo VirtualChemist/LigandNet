@@ -1,0 +1,3 @@
+SMILES,ChEMBL,target,metric
+ClC1=CC=C(NC(=N)NC(=N)NCCCCCCNC(=N)NC(=N)NC2=CC=C(Cl)C=C2)C=C1,chlorhexidine,6.68,pIC50
+Clc1ccc(NC(=N)NC(=N)NCCCCCCNC(=N)NC(=N)Nc2ccc(Cl)cc2)cc1,CHEMBL790,6.68,pIC50

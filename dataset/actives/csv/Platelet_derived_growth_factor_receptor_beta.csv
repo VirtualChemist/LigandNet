@@ -1,0 +1,2 @@
+SMILES,ChEMBL,target,metric
+CCN(CC)CCNC(=O)c1c(C)[nH]c(\C=C\2/C(=O)Nc3ccc(F)cc23)c1C,sunitinib,10.12,pKd

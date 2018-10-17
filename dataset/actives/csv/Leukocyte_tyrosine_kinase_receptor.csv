@@ -1,0 +1,9 @@
+SMILES,ChEMBL,target,metric
+[H][C@](C)(OC1=C(N)N=CC(=C1)C1=CN(N=C1)C1CCNCC1)C1=C(Cl)C=CC(F)=C1Cl,crizotinib,7.92,pKd
+CC(C)NC(=O)[C@@H]1CC[C@@H](CC1)N2\C(=N\C(=O)c3cc(F)cc(F)c3)\Nc4ccc(CN5CCC(CC5)C(C)(C)O)cc24,CHEMBL2172315,8.09,pKd
+CN[C@@H]1C[C@H]2O[C@@](C)([C@@H]1OC)n3c4ccccc4c5c6CNC(=O)c6c7c8ccccc8n2c7c35,CHEMBL388978,8.44,pIC50
+C[C@H]1Oc2cc(cnc2N)c3c(CN(C)C(=O)c4ccc(F)cc14)nn(C)c3C#N,CHEMBL3286830,8.57,pIC50
+CC(C)NC(=O)[C@@H]1CC[C@@H](CC1)N2\C(=N\C(=O)c3ccc(F)cc3)\Nc4ccc(CN5CCC(CC5)C(C)(C)O)cc24,CHEMBL2172308,8.6,pKd
+C[C@@H](Oc1cc(cnc1N)c2sc(nc2C)[C@](C)(O)CO)c3cc(F)ccc3n4nccn4,CHEMBL3128069,8.7,pIC50
+CNC(=O)c1c(F)cccc1Nc2nc(Nc3cc4N(CCc4cc3OC)C(=O)CN(C)C)nc5[nH]ccc25,CHEMBL464552,8.96,pKd
+COc1cc(ccc1Nc2ncc(Cl)c(Nc3ccccc3S(=O)(=O)C(C)C)n2)N4CCC(CC4)N5CCN(C)CC5,CHEMBL509032,9.02,pKd

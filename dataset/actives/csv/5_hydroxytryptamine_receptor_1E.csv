@@ -1,0 +1,10 @@
+SMILES,ChEMBL,target,metric
+CNS(=O)(=O)CCC1=CC=C2NC=C(C3CCN(C)CC3)C2=C1,naratriptan,7.69999981,pKi
+[H][C@@]12CC3=CNC4=CC=CC(=C34)C1=C[C@H](CN2C)C(=O)N[C@@H](CC)CO,methylergometrine,7.1,pKi
+CN1CCC[C@@H]1CC1=CNC2=C1C=C(CCS(=O)(=O)C1=CC=CC=C1)C=C2,eletriptan,7.2,pKi
+[H][C@@]12CC3=CNC4=CC=CC(=C34)C1=C[C@H](CN2C)C(=O)N(CC)CC,lysergide,7.03,pKi
+[H]C12CN(C)CC1([H])C1=C(OC3=C2C=CC=C3)C=CC(Cl)=C1,asenapine,8.0,pKi
+NC(=O)c1ccc2[nH]cc(C3=CCC(CC3)NCCCCCCCNC4CCC(=CC4)c5c[nH]c6ccc(cc56)C(=O)N)c2c1,CHEMBL22744,7.0,pIC50
+CCN(CC)C(=O)[C@H]1CN(C)[C@@H]2Cc3c[nH]c4cccc(C2=C1)c34,CHEMBL263881,7.03,pKi
+NCCc1c[nH]c2ccc(O)cc12,CHEMBL39,7.96,pKi
+Oc1ccc2[nH]cc(C3CCN(CCCCCNC(=O)\C=C\c4ccc(Cl)c(Cl)c4)CC3)c2c1,CHEMBL432713,8.2,pKi

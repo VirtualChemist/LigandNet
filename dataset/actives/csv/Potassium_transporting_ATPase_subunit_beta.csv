@@ -1,0 +1,4 @@
+SMILES,ChEMBL,target,metric
+CNCC1=CN(C(=C1)C1=CC=CC=C1F)S(=O)(=O)C1=CC=CN=C1,vonoprazan,8.0,pKi
+COC1=CC2=C(C=C1)N=C(N2)S(=O)CC1=NC=C(C)C(OC)=C1C,omeprazole,5.7,pIC50
+CCCc1nn(C)c2C(=O)NC(=Nc12)c3cc(ccc3OCC)S(=O)(=O)N4CCN(C)CC4,CHEMBL192,7.62,pIC50

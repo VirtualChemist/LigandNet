@@ -1,0 +1,4 @@
+SMILES,ChEMBL,target,metric
+NC1=NC=NC2=C1N=CN2[C@@H]1O[C@H](COP(O)(=O)OP(O)(=O)OP(O)(O)=O)[C@@H](O)[C@H]1O,adenosine triphosphate,5.80000019,pIC50
+OC(=O)c1ccccc1Nc2cccc(c2)C(F)(F)F,flufenamic acid,5.55,pIC50
+CNc1ncc2cc(c(C)nc2n1)c3cc(NC(=O)NCCC(C)(C)C)c(F)cc3C,CHEMBL3577124,6.54,pIC50

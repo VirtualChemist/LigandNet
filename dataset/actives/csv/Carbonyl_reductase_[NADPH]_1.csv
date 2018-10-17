@@ -1,0 +1,8 @@
+SMILES,ChEMBL,target,metric
+OC1=C(OC2=CC=C(Cl)C=C2Cl)C=CC(Cl)=C1,triclosan,7.22,pKi
+CC(C)(C)N1NC(c2cccc(O)c2)c3c(N)ncnc13,CHEMBL590508,6.1,pIC50
+Oc1cc(O)c2C(=O)C=C(Oc2c1)c3ccccc3,CHEMBL117,6.17,pIC50
+COc1cc(O)c2c(OC(=O)c3c2oc4cc(O)c(O)cc34)c1,CHEMBL97453,6.22,pKi
+C[C@@H]1C[C@H]2O[C@@H]2\C=C/C=C/C(=O)Cc3c(Cl)c(O)cc(O)c3C(=O)O1,CHEMBL414883,6.28,pKi
+Oc1cc(Cl)ccc1Oc2ccc(Cl)cc2Cl,CHEMBL849,6.4,pIC50
+C[C@H]1CCCC(=O)[C@@H](C)CC\C=C\c2cc(O)cc(O)c2C(=O)O1,CHEMBL453375,6.68,pIC50

@@ -1,0 +1,15 @@
+SMILES,ChEMBL,target,metric
+Cc1cc(C)c(Nc2ccc(Cl)c(c2)C(F)(F)F)c(C)c1,CHEMBL3808606,6.0,pIC50
+Cc1cc(C)c(Nc2cccc(C)c2C)c(C)c1,CHEMBL3808989,6.0,pIC50
+Cc1cc(C)c(Nc2cc(Cl)cc(Cl)c2)c(C)c1,CHEMBL2313636,6.05,pIC50
+Cc1cc(C)c(Nc2c(C)cc(Cl)cc2Cl)c(C)c1,CHEMBL3808792,6.16,pIC50
+Cc1cc(C)c(c(C)c1)S(=O)(=O)c2cc(C)c(C)cc2C,CHEMBL2313654,6.16,pIC50
+Cc1cc(C)c(Nc2cc(cc(c2)C(F)(F)F)C(F)(F)F)c(C)c1,CHEMBL3809121,6.22,pIC50
+[I-].COCCC[n+]1c(C)csc1Nc2c(C)cc(C)cc2C,CHEMBL3260989,6.22,pIC50
+CCc1cccn1S(=O)(=O)c2c(C)cc(C)cc2C,CHEMBL2313639,6.3,pIC50
+Cc1cc(C)c(Nc2cc(Cl)cc(c2)C(F)(F)F)c(C)c1,CHEMBL3808997,6.3,pIC50
+Cc1cc(C)c(Nc2cccc(Cl)c2C)c(C)c1,CHEMBL3808936,6.3,pIC50
+Cc1ccc(cc1)S(=O)(=O)c2c(C)cc(C)cc2C,CHEMBL2313653,6.3,pIC50
+Cc1cc(C)c(Nc2c(C)cc(C)cc2C)c(C)c1,CHEMBL3809313,6.4,pIC50
+Cc1cc(C)c(Nc2cc(Cl)ccc2Cl)c(C)c1,CHEMBL2313637,6.4,pIC50
+Cc1cc(C)c(c(C)c1)S(=O)(=O)n2cc(C)cc2C,CHEMBL2313646,6.52,pIC50

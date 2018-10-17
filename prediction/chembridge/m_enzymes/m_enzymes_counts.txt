@@ -1,0 +1,8 @@
+classifier_arginase_2_mitochondrial	0
+classifier_phospholipase_a2	48
+classifier_carbonic_anhydrase_2	1058
+classifier_enteropeptidase	5
+classifier_peptidyl_prolyl_cis_trans_isomerase_a	2
+classifier_caspase_2	0
+classifier_dna_repair_protein_complementing_xp_g_cells	0
+classifier_proteasome_subunit_beta_type_5	0

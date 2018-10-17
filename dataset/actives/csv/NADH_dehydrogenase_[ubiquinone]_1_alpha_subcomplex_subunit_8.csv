@@ -1,0 +1,2 @@
+SMILES,ChEMBL,target,metric
+CC1=C(CCNCC2=CC=C(\C=C\C(=O)NO)C=C2)C2=CC=CC=C2N1,panobinostat,6.43,pIC50

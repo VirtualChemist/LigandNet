@@ -1,0 +1,4 @@
+SMILES,ChEMBL,target,metric
+CC(=O)N[C@@H]1[C@@H](O)C=C(O[C@H]1[C@H](O)[C@H](O)CO)C(=O)O,CHEMBL96712,6.0,pKi
+CC(=O)N[C@@H]1[C@@H](O)C=C(O[C@H]1[C@H](O)[C@H](O)Cn2cc(CCO)nn2)C(=O)O,CHEMBL1289754,6.09,pIC50
+CC(=O)N[C@@H]1[C@@H](O)C=C(O[C@H]1[C@H](O)[C@H](O)Cn2cc(CO)nn2)C(=O)O,CHEMBL1289650,6.13,pIC50

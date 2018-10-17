@@ -1,0 +1,5 @@
+SMILES,ChEMBL,target,metric
+CC(C)NC(=O)NS(=O)(=O)C1=CN=CC=C1NC1=CC(C)=CC=C1,torsemide,6.4,pIC50
+NS(=O)(=O)C1=CC(C(O)=O)=C(NCC2=CC=CO2)C=C1Cl,furosemide,6.2,pIC50
+CCCCNC1=C(OC2=CC=CC=C2)C(=CC(=C1)C(O)=O)S(N)(=O)=O,bumetanide,7.6,pKi
+NS(=O)(=O)C1=CC(=CC(N2CCCC2)=C1OC1=CC=CC=C1)C(O)=O,piretanide,8.3,pKd

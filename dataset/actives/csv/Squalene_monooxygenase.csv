@@ -1,0 +1,10 @@
+SMILES,ChEMBL,target,metric
+CN(C\C=C\C#CC(C)(C)C)Cc1cccc2ccccc12,terbinafine,7.52,pKi
+CCN(CC#Cc1ccc(cc1)N=[N+]=[N-])Cc2cccc(OCc3cc(cs3)c4ccsc4)c2,CHEMBL16120,6.02,pIC50
+CCN(C\C=C\C#CC(C)(C)C)Cc1cccc(OC[Si](C)(C)c2ccc(cc2)N=[N+]=[N-])c1,CHEMBL16004,6.28,pIC50
+CCN(CC#Cc1cccc(c1)N=[N+]=[N-])Cc2cccc(OCc3cc(cs3)c4ccsc4)c2,CHEMBL267332,6.57,pIC50
+CCN(CC#Cc1ccccc1)Cc2cccc(OCc3cc(cs3)c4ccsc4)c2,CHEMBL16178,7.0,pIC50
+CCN(C\C=C\C#CC(C)(C)C)Cc1cccc(NC[Si](C)(C)c2ccccc2C)c1,CHEMBL434507,7.0,pIC50
+CCN(C\C=C\C#CC(C)(C)C)Cc1cccc(OCCN(C)S(=O)(=O)c2cccs2)c1,CHEMBL281025,7.1,pIC50
+CCN(C\C=C\C#CC(C)(C)C)Cc1cccc(OC[Si](C)(C)c2ccccc2C)c1,CHEMBL108692,7.52,pIC50
+CCN(C\C=C\C#CC(C)(C)C)Cc1cccc(OC[Si](C)(C)c2ccc(cc2)C#N)c1,CHEMBL15929,7.7,pIC50

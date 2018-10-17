@@ -1,0 +1,3 @@
+SMILES,ChEMBL,target,metric
+Clc1cc(Cl)c(OCC#CI)cc1Cl,haloprogin,6.3,pIC50
+O=C1N([Se]c2ccccc12)c3ccccc3,CHEMBL51085,7.85,pIC50

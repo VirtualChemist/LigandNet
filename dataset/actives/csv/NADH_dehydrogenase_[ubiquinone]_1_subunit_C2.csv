@@ -1,0 +1,2 @@
+SMILES,ChEMBL,target,metric
+Fc1ccc(Oc2cccc(CC3CCCN(C3)C(=O)Nc4cccnc4)c2)cc1,CHEMBL3810386,7.55,pIC50

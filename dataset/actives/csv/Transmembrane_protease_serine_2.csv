@@ -1,0 +1,4 @@
+SMILES,ChEMBL,target,metric
+CCC[C@H](NCc1ccc(cc1)C(=N)N)C(=O)[C@@H](CCCNC(=N)N)NS(=O)(=O)Cc2ccccc2,CHEMBL1809251,7.17,pKi
+CCC(NCc1ccc(cc1)C(=N)N)C(=O)[C@@H](CCCNC(=N)N)NS(=O)(=O)Cc2ccccc2,CHEMBL1809250,7.28,pKi
+NC(=N)NCCC[C@@H](NS(=O)(=O)Cc1ccccc1)C(=O)N2CCC[C@H]2C(=O)NCc3ccc(cc3)C(=N)N,CHEMBL1229259,7.7,pKi

@@ -1,0 +1,3 @@
+SMILES,ChEMBL,target,metric
+CNCC1=CC=C(C=C1)C1=C2CCNC(=O)C3=CC(F)=CC(N1)=C23,rucaparib,6.25,pIC50
+COC(=O)\C=C/C(=O)Nc1cccc(c1)C(=O)N,CHEMBL3414775,6.1,pIC50

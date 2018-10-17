@@ -1,0 +1,14 @@
+SMILES,ChEMBL,target,metric
+CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,dasatinib,9.07,pKd
+CNc1ncc2cc(c(C)nc2n1)c3cc(NC(=O)NCCC(C)(C)C)c(F)cc3C,CHEMBL3577124,7.7,pIC50
+CN(C)Cc1cc(cc(c1)C(F)(F)F)C(=O)N[C@@H]2CCc3ccc(Oc4ccnc5NC(=O)CCc45)cc3C2,CHEMBL1688860,7.75,pIC50
+COc1cc(Nc2c(cnc3cc(OCCCN4CCN(C)CC4)c(OC)cc23)C#N)c(Cl)cc1Cl,bosutinib,7.75,pKd
+CCn1nc(C#Cc2cc(ccc2C)C(=O)Nc3ccc(CN4CCN(C)CC4)c(c3)C(F)(F)F)c5c(N)ncnc15,CHEMBL3426225,7.8,pIC50
+COc1cc2ncnc(Oc3cccc(NC(=O)Nc4cc(on4)C(C)(C)C(F)(F)F)c3)c2cc1OC,CHEMBL2029988,7.85,pKd
+C(CN1CCCCC1)Oc2ccc(cc2)c3cnc4c(cnn4c3)c5ccncc5,CHEMBL478629,7.96,pIC50
+CC(C)(N)c1cc(cc(c1)C(F)(F)F)C(=O)N[C@@H]2CCc3ccc(Oc4ccnc5NC(=O)CCc45)cc3C2,CHEMBL1688861,7.96,pIC50
+Cc1ccc(O)cc1Nc2ccnc(Nc3cccc(c3)C(=O)N)n2,CHEMBL249097,8.1,pKd
+CSc1cccc(Nc2ncc3C=C(C(=O)N(C)c3n2)c4c(Cl)cccc4Cl)c1,CHEMBL386051,8.42,pKd
+COc1cc2c(Oc3ccc(NC(=O)C4(CC4)C(=O)Nc5ccc(F)cc5)cc3F)ccnc2cc1OCCCN6CCOCC6,CHEMBL1230609,8.44,pKd
+COc1ccccc1n2c(cn3c4C(=O)NC(=O)N(C)c4nc23)c5cc(O)ccc5C,CHEMBL566515,8.64,pIC50
+CNC(=O)c1ncc(C#Cc2cc(ccc2C)C(=O)Nc3ccc(CN4CCN(CCO)CC4)c(c3)C(F)(F)F)n1C,CHEMBL1784637,9.22,pIC50

@@ -1,0 +1,12 @@
+SMILES,ChEMBL,target,metric
+CCOC(=O)C1=C(C)NC(C)=C([C@@H]1C1=CC(=CC=C1)[N+]([O-])=O)C(=O)OC,(S)-nitrendipine,8.39999962,pIC50
+COC(=O)C1=C(C)NC(C)=C(C1C1=C(C=CC=C1)[N+]([O-])=O)C(=O)OC,nifedipine,7.69999981,pIC50
+COC(=O)C1=C(C)NC(C)=C(C1C1=CC=CC2=NON=C12)C(=O)OC(C)C,isradipine,9.30000019,pIC50
+[H]C1(C2=C(Cl)C=CC=C2)C(C(=O)OC)=C(C)NC(COCCN)=C1C(=O)OCC,amlodipine,7.0,pKi
+COC(=O)C1=C(C)NC(C)=C(C1C1=C(C=CC=C1)[N+]([O-])=O)C(=O)OCC(C)C,nisoldipine,6.69999981,pIC50
+COCCOC(=O)C1=C(C)NC(C)=C(C1C1=CC(=CC=C1)[N+]([O-])=O)C(=O)OC(C)C,nimodipine,6.1500001,pIC50
+CCOC(=O)C1=C(C)NC(C)=C(C1C1=CC(=CC=C1)[N+]([O-])=O)C(=O)OC,nitrendipine,8.39999962,pIC50
+CCCC1=C(C(C=C(N1)c2ccccc2)c3ccccc3)C(=O)OCC,CHEMBL3260888,5.0,pIC50
+CCOC(=O)C1=C(C)NC(=CC1c2ccccc2)c3ccc(Cl)cc3,CHEMBL3221239,5.03,pIC50
+CCOC(=O)C1=C(NC(=C(C1c2ccccc2Cl)C(=O)Nc3ccccn3)C)c4ccc(cc4)n5c(C)nc6cnccc56,CHEMBL29067,5.17,pIC50
+CC1(C)CC2=C(C(C=C(N2)c3ccccc3)c4ccccc4)C(=O)C1,CHEMBL1164066,5.55,pIC50

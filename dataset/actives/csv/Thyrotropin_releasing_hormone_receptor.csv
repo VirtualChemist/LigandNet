@@ -1,0 +1,4 @@
+SMILES,ChEMBL,target,metric
+CN1C(=O)C[C@H](NC1=O)C(=O)N[C@@H](CC1=CN=CN1)C(=O)N1CCCC1C(N)=O,taltirelin,6.5,pKi
+NC(=O)[C@@H]1CCCN1C(=O)[C@H](CC1=CNC=N1)NC(=O)[C@@H]1CCC(=O)N1,protirelin,7.7,pKi
+C[n+]1c[nH]cc1C[C@H](N)C(=O)N2[C@@H](CCC2=O)C(=O)N[C@@H](Cc3c[nH]cn3)C(=O)N4CCC[C@H]4C(=O)N,CHEMBL224730,8.52,pKi

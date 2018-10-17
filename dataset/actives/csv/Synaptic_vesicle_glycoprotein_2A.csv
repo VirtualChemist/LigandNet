@@ -1,0 +1,4 @@
+SMILES,ChEMBL,target,metric
+[H][C@@](CC)(N1C[C@]([H])(CCC)CC1=O)C(N)=O,brivaracetam,7.0999999,pKi
+CC[C@H](N1CCCC1=O)C(N)=O,levetiracetam,6.0999999,pKi
+Cl.Fc1cc(ccc1Cl)[C@@H]2OCCNC[C@H]2CN3C=CC(=CC3=O)C4=NOC(=O)N4,CHEMBL3819009,6.92,pIC50

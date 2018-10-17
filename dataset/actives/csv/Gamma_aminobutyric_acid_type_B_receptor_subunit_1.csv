@@ -1,0 +1,4 @@
+SMILES,ChEMBL,target,metric
+NCC(CC(O)=O)C1=CC=C(Cl)C=C1,baclofen,7.46,pIC50
+OC(=O)c1ccc2cc3nc(c4cccs4)c(nc3cc2c1)c5cccs5,CHEMBL426445,7.4,pIC50
+Cl.C[C@H](NC[C@H](O)CP(=O)(O)CC1CCCCC1)c2ccc(Cl)c(Cl)c2,CHEMBL2391908,8.19,pIC50

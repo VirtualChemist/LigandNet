@@ -1,0 +1,2 @@
+SMILES,ChEMBL,target,metric
+[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(O)C=C3,estradiol,8.52,pIC50

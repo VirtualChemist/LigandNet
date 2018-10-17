@@ -1,0 +1,4 @@
+SMILES,ChEMBL,target,metric
+CNC1(CCCCC1=O)C1=C(Cl)C=CC=C1,ketamine,6.38000011,pKi
+NC12CC3CC(CC(C3)C1)C2,amantadine,4.98000002,pKi
+OC[C@H]1O[C@@]2(NC(=S)NC2=O)[C@H](O)[C@@H](O)[C@@H]1O,CHEMBL489798,5.29,pKi

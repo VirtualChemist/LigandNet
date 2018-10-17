@@ -1,0 +1,4 @@
+SMILES,ChEMBL,target,metric
+[H][C@@]1(C[C@H](O)[C@H](O[C@@]2([H])C[C@H](O)[C@H](O[C@@]3([H])C[C@H](O)[C@H](O)[C@@H](C)O3)[C@@H](C)O2)[C@@H](C)O1)O[C@H]1CC[C@@]2(C)[C@]([H])(CC[C@]3([H])[C@]2([H])C[C@@H](O)[C@]2(C)[C@H](CC[C@]32O)C2=CC(=O)OC2)C1,digoxin,6.4,pIC50
+COc1ccc(\C=C\2/OC(=O)C=C2[C@H]3CC[C@]4(O)[C@@H]5CC[C@@H]6C[C@H](CC[C@]6(C)[C@H]5C[C@@H](O)[C@]34C)O[C@H]7C[C@H](O)[C@H](O[C@H]8C[C@H](O)[C@H](O[C@H]9C[C@H](O)[C@H](O)[C@@H](C)O9)[C@@H](C)O8)[C@@H](C)O7)cc1,CHEMBL3594276,6.24,pIC50
+C[C@H]1O[C@H](C[C@H](O)[C@@H]1O)O[C@H]2[C@@H](O)C[C@H](O[C@H]3[C@@H](O)C[C@H](O[C@H]4CC[C@@]5(C)[C@H](CC[C@@H]6[C@@H]5C[C@@H](O)[C@]7(C)[C@H](CC[C@]67O)C8=CC(=O)O/C/8=C\c9ccc(F)cc9)C4)O[C@@H]3C)O[C@@H]2C,CHEMBL3594278,6.47,pIC50

@@ -1,0 +1,8 @@
+SMILES,ChEMBL,target,metric
+COC(=O)c1ccc2\C(=C(\Nc3ccc(cc3)N(C)C(=O)CN4CCN(C)CC4)/c5ccccc5)\C(=O)Nc2c1,nintedanib,7.74,pKd
+O=C(N1CCNCC1)c2ccc(\C=C\c3n[nH]c4ccccc34)cc2,CHEMBL1908397,7.54,pKd
+O=C(Nc1c[nH]c2ncc(cc12)c3ccc(cc3)C#N)c4cccnc4,CHEMBL516312,7.62,pKd
+C[C@]12O[C@H](C[C@]1(O)CO)n3c4ccccc4c5c6C(=O)NCc6c7c8ccccc8n2c7c35,CHEMBL603469,7.72,pKd
+Cl.CN(C)CC(=O)N1CCC(CC1)c2ccc(NC(=O)c3nc(c[nH]3)C#N)c(c2)C4=CCCCC4,CHEMBL1908395,7.75,pKd
+Cc1cnc(Nc2ccc(OCCN3CCCC3)cc2)nc1Nc4cccc(c4)S(=O)(=O)NC(C)(C)C,CHEMBL1287853,8.18,pKd
+COc1cc(Nc2ncc(F)c(Nc3ccc4OC(C)(C)C(=O)Nc4n3)n2)cc(OC)c1OC,CHEMBL475251,8.77,pKd

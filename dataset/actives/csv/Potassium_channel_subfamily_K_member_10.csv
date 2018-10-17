@@ -1,0 +1,2 @@
+SMILES,ChEMBL,target,metric
+COc1ccccc1OCCNCC(O)COc2cccc3[nH]c4ccccc4c23,carvedilol,5.12,pIC50

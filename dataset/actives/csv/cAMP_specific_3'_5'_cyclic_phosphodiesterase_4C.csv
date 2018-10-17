@@ -1,0 +1,4 @@
+SMILES,ChEMBL,target,metric
+OB1OCc2cc(Oc3ccc(cc3)C#N)ccc12,crisaborole,6.30980396,pIC50
+FC(F)OC1=C(OCC2CC2)C=C(C=C1)C(=O)NC1=C(Cl)C=NC=C1Cl,roflumilast,9.1,pIC50
+C[N+](C)(C)CCO.CN1C2=C(N=C[N-]2)C(=O)N(C)C1=O,choline theophyllinate,4.25,pKi

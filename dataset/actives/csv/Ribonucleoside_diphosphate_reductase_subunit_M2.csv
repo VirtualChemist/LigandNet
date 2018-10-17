@@ -1,0 +1,5 @@
+SMILES,ChEMBL,target,metric
+NC1=C2N=CN([C@@H]3O[C@H](CO)[C@@H](O)[C@@H]3F)C2=NC(Cl)=N1,clofarabine,8.30000019,pIC50
+CCNc1ccc(\C=N\N=C(\N)/S)nc1,CHEMBL86188,6.0,pIC50
+CNc1cccnc1\C=N\N=C(\N)/S,CHEMBL87471,6.0,pIC50
+N\C(=N\Nc1ccc(N)c(C=O)n1)\S,CHEMBL315999,6.09,pIC50

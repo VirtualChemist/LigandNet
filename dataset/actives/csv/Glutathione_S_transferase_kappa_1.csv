@@ -1,0 +1,3 @@
+SMILES,ChEMBL,target,metric
+N[C@@H](CCC(=O)N[C@@H](CS)C(=O)NCC(O)=O)C(O)=O,glutathione,7.7,pIC50
+N[C@@H](CCC(=O)N[C@@H](CS)C(=O)NCC(=O)O)C(=O)O,CHEMBL1543,7.7,pIC50
