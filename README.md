@@ -36,4 +36,4 @@ To get the decoys used for training the LigandNet models, run
 ```
 
 # Web server
-An web interface for ligand activity prediction using the LigandNet models is available at [LigandNet](https://drugdiscovery.utep.edu/ligandnet)
+A web interface for ligand activity prediction using the LigandNet models is available at [LigandNet](https://drugdiscovery.utep.edu/ligandnet)
