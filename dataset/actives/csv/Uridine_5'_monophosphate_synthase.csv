@@ -1,3 +1,0 @@
-SMILES,ChEMBL,target,metric
-CCC1=C(F)C(=O)NC(=O)N1[C@@H]2O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]2O,CHEMBL473587,6.46,pKi
-NC(=O)c1[nH]nc([C@@H]2O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]2O)c1O,CHEMBL1164953,7.77,pKi

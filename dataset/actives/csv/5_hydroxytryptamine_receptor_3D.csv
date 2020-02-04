@@ -1,4 +1,0 @@
-SMILES,ChEMBL,target,metric
-[H]C1(CCN(CCCOC2=CC=C(F)C=C2)CC1([H])OC)NC(=O)C1=C(OC)C=C(N)C(Cl)=C1,cisapride,6.82,pKi
-CCN(CC)CCNC(=O)C1=C(OC)C=C(N)C(Cl)=C1,metoclopramide,7.30000019,pKd
-CCCC(C)\C=C(/C)\C=C\C(=O)CC1=C(c2cc(O)c(O)cc2C3=C(O)\C(=C\c4ccc(O)c(O)c4)\OC3=O)C(O)(C(O)C1=O)C(=O)C,CHEMBL3218306,6.89,pIC50

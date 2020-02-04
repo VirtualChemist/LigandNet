@@ -1,4 +1,0 @@
-SMILES,ChEMBL,target,metric
-Oc1[nH]c2ccccc2c1c3[nH]c4ccccc4c3N=O,CHEMBL126077,7.0,pIC50
-Oc1[nH]c2ccc(I)cc2c1c3[nH]c4ccccc4c3N=O,CHEMBL337300,7.7,pIC50
-O\N=C/1\C(=C/2\C(=O)Nc3ccc(cc23)S(=O)(=O)O)\Nc4ccccc14,CHEMBL440411,8.16,pIC50

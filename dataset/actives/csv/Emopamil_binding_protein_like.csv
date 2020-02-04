@@ -1,4 +1,0 @@
-SMILES,ChEMBL,target,metric
-CC\C(=C(/C1=CC=CC=C1)C1=CC=C(OCCN(C)C)C=C1)C1=CC=CC=C1,tamoxifen,8.55,pKi
-CN1CCN(CCCN2c3ccccc3Sc4ccc(cc24)C(F)(F)F)CC1,trifluoperazine,8.41,pKi
-COc1ccc(CCN2CCN(CCCc3ccccc3)CC2)cc1OO,CHEMBL2314420,8.76,pKi

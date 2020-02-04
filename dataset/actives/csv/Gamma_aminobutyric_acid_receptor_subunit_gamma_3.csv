@@ -1,6 +1,0 @@
-SMILES,ChEMBL,target,metric
-CN1C2=CC=C(Cl)C=C2C(=NCC1=O)C1=CC=CC=C1,diazepam,6.6655,pKi
-CN1CCN(CC1)C(=O)OC1N(C(=O)C2=C1N=CC=N2)C1=CC=C(Cl)C=N1,zopiclone,6.4881,pKi
-CC1=NN=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(Cl)C=CC=C1,triazolam,8.1079,pKi
-CC1=NC=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(F)C=CC=C1,midazolam,7.6126,pKi
-CN1\C(=C\C=C\2/CCCC(=C2)\C=C\C3=[N+](CCCCCC(=O)NCCCC[C@H](NC(=O)CCCCCCC(=O)NCCCCC(NC(=O)N[C@@H](CCC(=O)O)C(=O)O)C(=O)O)C(=O)NCc4ccc(cc4)c5ccc(O)c(c5)c6cc7cc(ccc7[nH]6)C(=N)N)c8ccc(cc8C3(C)C)S(=O)(O)O)\C(C)(C)c9cc(ccc19)S(=O)(O)O,CHEMBL3828668,7.55,pIC50

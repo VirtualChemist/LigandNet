@@ -1,4 +1,0 @@
-SMILES,ChEMBL,target,metric
-CC(=NNC(=O)Cc1ccc(cc1)n2cccc2)C,CHEMBL166531,6.0,pIC50
-NNC(=O)Cc1ccc(cc1)n2cccc2,CHEMBL167810,6.0,pIC50
-NNC(=O)Cc1cccc(c1)n2cccc2,CHEMBL166346,6.3,pIC50

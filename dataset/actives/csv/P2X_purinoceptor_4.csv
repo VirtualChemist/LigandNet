@@ -1,8 +1,0 @@
-SMILES,ChEMBL,target,metric
-Fc1ccc(cc1)[C@@H]2CCNC[C@H]2COc3ccc4OCOc4c3,paroxetine,5.33,pIC50
-NC1=NC=NC2=C1N=CN2[C@@H]1O[C@H](COP(O)(=O)OP(O)(=O)OP(O)(O)=O)[C@@H](O)[C@H]1O,adenosine triphosphate,6.30000019,pEC50
-CCCN(CCC)C(=O)N1c2ccccc2C=Cc3ccccc13,CHEMBL3103375,5.11,pIC50
-O=C(OCc1ccccc1)N2c3ccccc3C=Cc4ccccc24,CHEMBL3103401,5.22,pIC50
-CC(C)N(C(C)C)C(=O)N1c2ccccc2C=Cc3ccccc13,CHEMBL3103385,5.46,pIC50
-O=C(OCc1ccccc1)N2c3ccccc3Oc4ccccc24,CHEMBL2180137,6.72,pIC50
-Nc1ncnc2c1ncn2[C@@H]3O[C@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)O)[C@H]4OC5(O[C@@H]34)C(=CC(=[N+]([O-])[O-])C=C5[N+](=O)[O-])[N+](=O)[O-],CHEMBL1163419,7.31,pKi

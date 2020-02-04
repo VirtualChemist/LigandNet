@@ -1,5 +1,0 @@
-SMILES,ChEMBL,target,metric
-Nc1ncnc2c1nc(NCc3ccc(cc3)c4cccnc4)n2[C@@H]5O[C@H](CO)[C@@H](O)[C@H]5O,CHEMBL3809974,6.0,pIC50
-Nc1ncnc2c1nc(NCc3ccc(c(OCCCCO)c3)c4ccccc4)n2[C@@H]5O[C@H](CO)[C@@H](O)[C@H]5O,CHEMBL3809613,6.03,pIC50
-Nc1ncnc2c1nc(NCc3ccc(cc3)c4ccccc4)n2[C@@H]5O[C@H](CO)[C@@H](O)[C@H]5O,CHEMBL3427690,6.19,pIC50
-OCCCCOc1cc(CNc2nc3ccccc3n2[C@@H]4O[C@H](CO)[C@@H](O)[C@H]4O)ccc1c5ccccc5,CHEMBL3808747,7.21,pIC50

@@ -1,3 +1,0 @@
-SMILES,ChEMBL,target,metric
-CCOC(=O)NC1=C(N)C=C(NCC2=CC=C(F)C=C2)C=C1,retigabine,6.19999981,pEC50
-COc1ccc(Cl)cc1[C@]2(F)C(=O)Nc3cc(ccc23)C(F)(F)F,CHEMBL266510,5.62,pEC50

@@ -1,4 +1,0 @@
-SMILES,ChEMBL,target,metric
-NC(=N)NC(=O)C1=C(N)N=C(N)C(Cl)=N1,amiloride,5.0,pIC50
-CCN(CC)CCN(Cc1ccc(Cl)cc1)c2ccc3C=C(C(=N)N)C(=O)Oc3c2,CHEMBL3577296,5.13,pIC50
-NCc1sc2cc(ccc2c1Cl)C#Cc3ccc4CCNCc4c3,CHEMBL1800430,6.65,pIC50

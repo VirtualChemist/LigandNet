@@ -1,9 +1,0 @@
-SMILES,ChEMBL,target,metric
-CC1=NC=C(COP(O)(O)=O)C(C=O)=C1O,pyridoxal phosphate,5.0,pIC50
-NC1=NC=NC2=C1N=CN2[C@@H]1O[C@H](COP(O)(=O)OP(O)(=O)OP(O)(O)=O)[C@@H](O)[C@H]1O,adenosine triphosphate,7.25,pEC50
-Cc1ncc(COP(=O)(O)O)c(C=O)c1O,CHEMBL82202,5.0,pIC50
-CC(C)N(C(C)C)C(=O)N1c2ccccc2C=Cc3ccccc13,CHEMBL3103385,5.27,pIC50
-CCCN(CCC)C(=O)N1c2ccccc2C=Cc3ccccc13,CHEMBL3103375,5.34,pIC50
-CC(C)(C)CN1CCC2(CC1)CN(c3ccccc3NC(=O)Nc4ccc(OC(F)(F)F)cc4)c5ccccc25,CHEMBL3104636,5.8,pIC50
-CNc1ncnc2c1ncn2[C@H]3C[C@H](OP(=O)(O)O)[C@@H](COP(=O)(O)O)O3,CHEMBL129841,5.94,pIC50
-CC(C)(C)CN1CCC2(CC1)CN(c3ccccc3NC(=O)Nc4nc5ccc(Cl)nc5s4)c6c(O)ccc(Cl)c26,CHEMBL3263056,6.75,pIC50

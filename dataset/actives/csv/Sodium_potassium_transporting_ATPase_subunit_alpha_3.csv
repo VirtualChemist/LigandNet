@@ -1,3 +1,0 @@
-SMILES,ChEMBL,target,metric
-[H][C@@]1(C[C@H](O)[C@H](O[C@@]2([H])C[C@H](O)[C@H](O[C@@]3([H])C[C@H](O)[C@H](O)[C@@H](C)O3)[C@@H](C)O2)[C@@H](C)O1)O[C@H]1CC[C@@]2(C)[C@]([H])(CC[C@]3([H])[C@]2([H])C[C@@H](O)[C@]2(C)[C@H](CC[C@]32O)C2=CC(=O)OC2)C1,digoxin,6.4,pIC50
-COC(=O)CN(c1ccc(CN(c2ccc(OCc3ccc(C)cc3)c(c2)C(=O)OC)S(=O)(=O)Cc4ccccc4)cc1)S(=O)(=O)C,CHEMBL3822604,6.12,pIC50

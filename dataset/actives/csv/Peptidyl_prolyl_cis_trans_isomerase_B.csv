@@ -1,9 +1,0 @@
-SMILES,ChEMBL,target,metric
-[H][C@]1(NC(=O)[C@H](CC(C)C)N(C)C(=O)CN(C)C(=O)[C@H](CC)NC(=O)[C@]([H])([C@H](O)[C@H](C)C\C=C\C)N(C)C(=O)[C@]([H])(C(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)N(C)C1=O)C(C)C,ciclosporin,8.01,pKd
-Nc1ccc(CNC(=O)NCC(=O)N2CCCC2c3ccccc3Br)cc1,CHEMBL3647432,6.12,pIC50
-CSc1ccccc1C2CCCN2C(=O)CNC(=O)NCc3ccc(N)cc3,CHEMBL3647433,6.19,pIC50
-CC[C@@H]1NC(=O)[C@H]([C@H](O)[C@H](C)C\C=C\C)N(C)C(=O)[C@H](C(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](CCCNC(=O)C(C)(C)C)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](NC(=O)[C@H](CC(C)C)N(C)C(=O)CN(C)C1=O)C(C)C,CHEMBL1269581,7.52,pIC50
-CC[C@@H]1NC(=O)[C@H]([C@H](O)[C@H](C)C\C=C\C)N(C)C(=O)[C@H](C(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](CCNC(=O)C(C)(C)C)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](NC(=O)[C@H](CC(C)C)N(C)C(=O)CN(C)C1=O)C(C)C,CHEMBL1269580,7.58,pIC50
-CC[C@@H]1NC(=O)[C@H]([C@H](O)[C@H](C)C\C=C\C)N(C)C(=O)[C@H](C(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](CCCCNC(=O)C(C)(C)C)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](NC(=O)[C@H](CC(C)C)N(C)C(=O)CN(C)C1=O)C(C)C,CHEMBL1269582,7.69,pIC50
-COc1cc(cc(OC)c1OC)C(N(C(=O)Cc2c[nH]c3ccccc23)c4ccc(cc4)C(C)C)C(=O)NC5CCCCC5,CHEMBL3752642,8.68,pKd
-CC[C@@H]1NC(=O)[C@H]([C@H](O)[C@H](C)C\C=C\C)N(C)C(=O)[C@H](C(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](NC(=O)[C@H]([C@@H](C)CN2CCN(CCOC)CC2)N(C)C(=O)[C@@H](C)N(C)C1=O)C(C)C,CHEMBL3344501,8.92,pKd

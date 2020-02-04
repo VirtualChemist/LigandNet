@@ -1,3 +1,0 @@
-SMILES,ChEMBL,target,metric
-CC1NC(CO)[C@@H](O)[C@@H](O)[C@@H]1O,CHEMBL69294,7.95,pKi
-C[C@@H]1NC[C@@H](O)[C@H](O)[C@@H]1O,CHEMBL314772,8.01,pKi

@@ -1,4 +1,0 @@
-SMILES,ChEMBL,target,metric
-FC1=C(C=CC=C1)C1=NCC(=S)N(CC(F)(F)F)C2=CC=C(Cl)C=C12,quazepam,6.6271,pKi
-CC1=NN=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(Cl)C=CC=C1,triazolam,9.10000038,pKi
-C1CN(CCO1)c2ccc(cc2)c3cnc4c(cnn4c3)c5cn[nH]c5,CHEMBL2385579,8.86,pIC50

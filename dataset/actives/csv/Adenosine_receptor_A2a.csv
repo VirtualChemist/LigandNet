@@ -1,6 +1,0 @@
-SMILES,ChEMBL,target,metric
-CN1C2=C(N=CN2)C(=O)N(C)C1=O,theophylline,9.22,pKi
-CN1C(=O)N(C)c2ncn(C)c2C1=O,caffeine,5.61,pKi
-CNC(=O)C1=CN(N=C1)C1=NC(N)=C2N=CN([C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O)C2=N1,regadenoson,5.8861,pEC50
-Nc1ncnc2c1ncn2[C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O,adenosine,6.1549,pEC50
-C[N+](C)(C)CCO.CN1C2=C(N=C[N-]2)C(=O)N(C)C1=O,choline theophyllinate,9.22,pKi

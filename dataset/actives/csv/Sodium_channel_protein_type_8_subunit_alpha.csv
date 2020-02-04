@@ -1,9 +1,0 @@
-SMILES,ChEMBL,target,metric
-F[C@H]1CCN(C1)C(=O)CN2CCN(C2=O)c3cccc4c3cnn4c5ccccc5F,CHEMBL3798228,5.07,pIC50
-Fc1ccc2c(c1)c(OCCN3CCNC3=O)nn2c4ccccc4F,CHEMBL3798363,5.3,pIC50
-FC(F)(F)Oc1cccc(c1)C(=O)NCc2noc(n2)c3c4ccccc4nn3CCn5ccnc5,CHEMBL3236329,5.48,pIC50
-NCc1noc(n1)c2c3ccccc3nn2Cc4ccccc4,CHEMBL466715,5.99,pIC50
-NCc1noc(n1)c2nn(Cc3ccccc3)c4ccccc24,CHEMBL512079,6.18,pIC50
-CCCCNC1=CC=C(C=C1)C(=O)OCCN(C)C,tetracaine,6.28,pIC50
-Nc1noc2ccc(cc12)c3cc(Cl)ccc3Oc4cc(F)c(cc4F)S(=O)(=O)Nc5ncns5,CHEMBL3341983,7.96,pIC50
-Nc1nc2cc(ccc2[nH]1)c3cc(Cl)ccc3Oc4cc(F)c(cc4F)S(=O)(=O)Nc5ncns5,CHEMBL3617063,9.1,pIC50

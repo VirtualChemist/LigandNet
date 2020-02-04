@@ -1,3 +1,0 @@
-SMILES,ChEMBL,target,metric
-CC[C@H](C)CNC(=O)[C@H](C)NC(=O)[C@H](CC(=O)O)NC(=O)[C@@H](NC(=O)[C@H](CCCN=C(N)N)NC(=O)Cc1ccc(NC(=O)c2ccc3ccccc3c2)cc1)[C@@H](C)CC,CHEMBL61383,9.4,pKi
-CC[C@H](C)CNC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CC(=O)O)NC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)Cc1ccc(NC(=O)c2ccc3ccccc3c2)cc1)[C@@H](C)CC,CHEMBL294263,9.52,pKi

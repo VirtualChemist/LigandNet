@@ -1,9 +1,0 @@
-SMILES,ChEMBL,target,metric
-CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1,dasatinib,9.51,pKd
-COc1cc(Nc2c(cnc3cc(OCCCN4CCN(C)CC4)c(OC)cc23)C#N)c(Cl)cc1Cl,bosutinib,8.85,pKd
-COc1cc(ccc1Nc2ncc(Cl)c(Nc3ccccc3S(=O)(=O)C(C)C)n2)N4CCC(CC4)N5CCN(C)CC5,CHEMBL509032,7.57,pKd
-CCN1CCN(Cc2ccc(NC(=O)Nc3ccc(Oc4cc(NC)ncn4)cc3)cc2C(F)(F)F)CC1,CHEMBL574738,7.59,pKd
-C[C@H](Nc1cncc(Cl)n1)c2cccc(NC(=O)c3cccc(C)c3)c2,CHEMBL504075,7.92,pKd
-Nc1ncnc2c1c(cn2C3CCNCC3)c4cccc(O)c4,CHEMBL450519,8.22,pKd
-CSc1cccc(Nc2ncc3C=C(C(=O)N(C)c3n2)c4c(Cl)cccc4Cl)c1,CHEMBL386051,8.39,pKd
-COc1cc2c(Oc3ccc(NC(=O)C4(CC4)C(=O)Nc5ccc(F)cc5)cc3F)ccnc2cc1OCCCN6CCOCC6,CHEMBL1230609,8.42,pKd

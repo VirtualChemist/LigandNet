@@ -1,3 +1,0 @@
-SMILES,ChEMBL,target,metric
-OCCN(CCO)c1nc(N2CCCCC2)c3nc(nc(N4CCCCC4)c3n1)N(CCO)CCO,dipyridamole,6.11,pIC50
-COc1ccc(CNc2nc(nc3c(NCc4ccc(OC)cc4)nc(nc23)N(CCO)CCO)N(CCO)CCO)cc1,CHEMBL348601,6.68,pIC50
